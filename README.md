@@ -170,6 +170,6 @@ Happy banking with the Bank Management System! 💰🏦
 ### 16) Bank Loan Inovice
 
 <p align="center">
-  <img src="16thpage.jpg" alt="Navbar Component" width="100%"/>
+  <img src="16page.jpg" alt="Navbar Component" width="100%"/>
   <br />
 </p>
